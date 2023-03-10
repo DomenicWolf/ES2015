@@ -1,7 +1,0 @@
-var is set a variable to the window, it is, when compiled, set first, it can be redeclared
-
-you cannot reassign const like you can var
-
-let can be re assighned const cannot
-
-hoisting is when a something is identified at the top of the page but is not yet initialized
